@@ -1,0 +1,1 @@
+I am getting started with git an I want to know the ins and outs of this version control software.
